@@ -11,6 +11,10 @@ int main(){
 	return 0;
 }
 
+void sub1(){
+	printf("안녕하세요 최우석입니다!\n");
+}
+
 void sub3(){
 	puts("00");
 }

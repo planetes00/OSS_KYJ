@@ -15,3 +15,9 @@ void sub3(){
 	puts("00");
 }
 
+void sub2(){
+	int i;
+	for(i=0; i<10; i++){
+		printf("*");
+	}
+}
